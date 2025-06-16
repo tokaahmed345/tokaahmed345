@@ -7,8 +7,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/toka-elshrkawy-3822aa290/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/toka-elshrkawy-3822aa290/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/tokaahmed850?igsh=mth6zjlqdjizm3noeq%3d%3d&utm_source=qr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/tokaahmed850?igsh=mth6zjlqdjizm3noeq%3d%3d&utm_source=qr" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/toka-elshrkawy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="toka-elshrkawy" height="30" width="40" /></a>
+<a href="https://fb.com/tokaahmed850" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tokaahmed850" height="30" width="40" /></a>
+<a href="https://instagram.com/tokaahmed850" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tokaahmed850" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/tokaahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tokaahmed" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
