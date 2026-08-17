@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Toka Elsharkawy</h1>
-<h3 align="center">Software Engineer | Flutter Developer</h3>
+<h3 align="center">Software Engineer | Flutter Developer | AI & Integration Engineer  </h3>
 
-- 🌱 I’m currently learning **Mobile Development**
+- 🌱I’m learning Mobile App Development alongside On-Device Machine Learning
 
 - 📫 How to reach me **tokaahmed34567@gmail.com**
 
